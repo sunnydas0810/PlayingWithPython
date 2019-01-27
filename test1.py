@@ -21,7 +21,7 @@ print(var1 <= var6)
 
 # strings
 print(type(var2) is str)
-print(var2[5] == 'n' and var2[0] == "p")
+print(var2[4] == 'n' and var2[0] == "q")
 
 # lists
 print(type(var3) is list)
@@ -29,7 +29,7 @@ print(len(var3) == 5)
 
 # tuples
 print(type(var4) is tuple)
-print(var4[2] == "Hello, Python!")
+print(var4[2] == "Hello, we are playing with Python!")
 
 # dictionaries
 print(type(var5) is dict)
