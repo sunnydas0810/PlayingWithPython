@@ -10,8 +10,7 @@ var4 = (1, 2, "Hello, we are playing with Python!")
 var5 =	{
     "tuna": "fish",
     "happy": 7,
-    "egg": "salad"
-}
+    "egg": "salad" }
 
 ############################################
 ## Don't edit anything below this comment ##
